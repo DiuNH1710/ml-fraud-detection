@@ -1,5 +1,5 @@
 xgboost
-airflow
+apache-airflow
 kafka-python
 python-dotenv
 pyyaml
